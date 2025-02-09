@@ -1,0 +1,1 @@
+The first code set is a React template, designed for scalability and requiring a build process. The second is a basic Pokémon search app using plain HTML, CSS, and JavaScript, which runs instantly in a browser without additional setup.
